@@ -32,7 +32,9 @@ Contact
 If you have any questions, feedback, or opportunities, please don't hesitate to reach out to me:
 
 Charlotte Bredy-Maux
+
 charlottebredymaux@gmail.com
+
 https://www.linkedin.com/in/charlotte-bredy-maux-565855152/
 
 Thank you for visiting my portfolio repository. I look forward to potential collaborations and opportunities in the exciting field of AI in biology and medicine!
