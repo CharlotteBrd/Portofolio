@@ -7,17 +7,23 @@ I am a dedicated PhD student passionate about leveraging AI techniques to addres
 ## Contents
 This repository contains a selection of projects, code, and datasets that highlight my skills and experiences in applying AI techniques to solve problems in biology and medicine. These include:
 
-### Diagnostic Models: Implementation of machine learning and deep learning models for disease diagnosis based on various types of biological data such as genomic, proteomic, and imaging data.
+### Diagnostic Models:
+Implementation of machine learning and deep learning models for disease diagnosis based on various types of biological data such as genomic, proteomic, and imaging data.
 
-### Prognostic Models: Development of predictive models to estimate patient outcomes and prognosis using AI algorithms applied to clinical data.
+### Prognostic Models:
+Development of predictive models to estimate patient outcomes and prognosis using AI algorithms applied to clinical data.
 
-### Feature Engineering: Code demonstrating effective feature engineering techniques tailored for biological and medical datasets to improve model performance.
+### Feature Engineering:
+Code demonstrating effective feature engineering techniques tailored for biological and medical datasets to improve model performance.
 
-### Data Preprocessing: Scripts for preprocessing raw biological and medical data to prepare it for analysis and modeling.
+### Data Preprocessing:
+Scripts for preprocessing raw biological and medical data to prepare it for analysis and modeling.
 
-### Visualization: Examples of data visualization techniques used to gain insights into complex biological and medical datasets.
+### Visualization:
+Examples of data visualization techniques used to gain insights into complex biological and medical datasets.
 
-### Datasets: Sample datasets used in the projects for training and evaluation purposes.
+### Datasets:
+Sample datasets used in the projects for training and evaluation purposes.
 
 How to Use
 Feel free to explore the projects and code in this repository. Each project directory contains its own README file with detailed instructions on how to run the code, reproduce the results, and interpret the findings. Additionally, the datasets are provided for reference and experimentation.
